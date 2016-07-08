@@ -31,6 +31,7 @@ PRODUCT_NAME := xosp_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
+IS_ARM64 := TRUE
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
